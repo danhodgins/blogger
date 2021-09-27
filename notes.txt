@@ -1,0 +1,9 @@
+
+# 
+Readline causes a problem. 
+
+Must do / add the following: 
+
+1. gem install rb-readline 
+2. Add this to gemfile 
+gem 'rb-readline' 
