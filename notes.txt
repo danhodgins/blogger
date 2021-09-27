@@ -7,3 +7,9 @@ Must do / add the following:
 1. gem install rb-readline 
 2. Add this to gemfile 
 gem 'rb-readline' 
+
+-----
+Github Personal Access Token 
+username: hodgins.dan@gmail.com
+password:
+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
