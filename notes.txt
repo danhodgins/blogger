@@ -13,3 +13,9 @@ Github Personal Access Token
 username: hodgins.dan@gmail.com
 password:
 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
+
+----
+Heroku Error #1: Main vs Master 
+
+ instead of git push heroku master do:
+git push heroku main 
